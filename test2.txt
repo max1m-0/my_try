@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 repair someth
+=======
+My heart is broken
+When i see this strings
+Nothing interesting 
+But much time consumed
+>>>>>>> secondary
